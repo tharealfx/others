@@ -33,14 +33,14 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-	Title = "FHXX's Hub | https://discord.gg/mm3thHMpDW.",
-	Text = "Whitelisted by @FHXXsmokedyou.",
+	Title = "FHXX and Cheeto and Cheeto's Hub | https://discord.gg/mm3thHMpDW.",
+	Text = "Whitelisted by @FHXX and Cheeto and Cheetosmokedyou.",
 }
 )
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local L_4_ = L_3_.CreateLib("FHXX's Hub | https://discord.gg/mm3thHMpDW", "Ocean")
+local L_4_ = L_3_.CreateLib("FHXX and Cheeto and Cheeto's Hub | https://discord.gg/mm3thHMpDW", "Ocean")
 local L_5_ = L_4_:NewTab("Aimlock")
-local L_6_ = L_5_:NewSection("FHXX's Hub")
+local L_6_ = L_5_:NewSection("FHXX and Cheeto and Cheeto's Hub")
 L_6_:NewButton(
     "Aimlock",
     "Beam niggas down",
@@ -254,7 +254,7 @@ L_6_:NewDropdown(
 end
 )
 local L_7_ = L_4_:NewTab("Silent Aim")
-local L_8_ = L_7_:NewSection("FHXX's Hub")
+local L_8_ = L_7_:NewSection("FHXX and Cheeto and Cheeto's Hub")
 L_8_:NewButton(
     "Silent Aim",
     "Silent Aim Toggle Key is T.",
@@ -297,7 +297,7 @@ L_8_:NewToggle(
 end
 )
 local L_9_ = L_4_:NewTab("Silent Aim Dot")
-local L_10_ = L_9_:NewSection("FHXX's Hub | https://discord.gg/mm3thHMpDW")
+local L_10_ = L_9_:NewSection("FHXX and Cheeto and Cheeto's Hub | https://discord.gg/mm3thHMpDW")
 L_10_:NewButton(
     "Silent Aimlock",
     "Key is C.",
@@ -531,7 +531,7 @@ L_10_:NewButton(
 end
 )
 local L_11_ = L_4_:NewTab("AntiLock")
-local L_12_ = L_11_:NewSection("FHXX's Hub | https://discord.gg/mm3thHMpDW")
+local L_12_ = L_11_:NewSection("FHXX and Cheeto and Cheeto's Hub | https://discord.gg/mm3thHMpDW")
 L_12_:NewButton(
     "Anti-Lock",
     "Key is Z.",
@@ -659,7 +659,7 @@ end
 )
 
 local L_13_ = L_4_:NewTab("Settings")
-local L_14_ = L_13_:NewSection("FHXX's Hub | https://discord.gg/mm3thHMpDW")
+local L_14_ = L_13_:NewSection("FHXX and Cheeto and Cheeto's Hub | https://discord.gg/mm3thHMpDW")
 L_14_:NewKeybind(
     "Keybind Gui Toggle",
     "h",
@@ -869,7 +869,7 @@ end
 )
 local L_17_ = L_4_:NewTab("Visuals C+")
 local L_18_ = loadstring(game:HttpGet("https://pastebin.com/raw/TH9N2EMu"))()
-local L_19_ = L_17_:NewSection("FHXX's Hub")
+local L_19_ = L_17_:NewSection("FHXX and Cheeto and Cheeto's Hub")
 L_19_:NewToggle(
     "ESP",
     "ESP",
@@ -976,7 +976,7 @@ end
 )
 
 local L_7_ = L_4_:NewTab("Inf Yield")
-local L_8_ = L_7_:NewSection("FHXX's Hub | https://discord.gg/mm3thHMpDW")
+local L_8_ = L_7_:NewSection("FHXX and Cheeto and Cheeto's Hub | https://discord.gg/mm3thHMpDW")
 L_8_:NewButton(
     "Inf Yield",
     "Inf Yield.",
