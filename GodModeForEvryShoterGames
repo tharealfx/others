@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Ban("Don't Exploit Nigga")
+game.Players.LocalPlayer:Kick("Don't Exploit Nigga")
